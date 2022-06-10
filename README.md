@@ -1,2 +1,2 @@
 # html-basic
-coding basic with html and css
+https://mizanonly.github.io/html-basic/
